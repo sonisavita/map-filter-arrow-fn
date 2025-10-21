@@ -25,3 +25,10 @@ const result = numbers
   .filter(num => num % 2 !== 0)
   .map(num => num * num);
 console.log("Squares of odd numbers:", result); // Output: [1, 9]
+
+---
+
+▶️ Run
+
+
+node index.js
